@@ -35,8 +35,8 @@ If you don't know anything at all about python, and you want to know something t
   
 * Install Anaconda (for those who may want to use Anaconda instead of pip)
 
-  Download Anaconda 3.7 for your platform and install it.
-  https://www.anaconda.com/distribution/
+  Download Anaconda 3.11 for your platform and install it.
+  https://www.anaconda.com/download/success
  
  * Install Visual Studio Code
  
@@ -94,7 +94,7 @@ conda config --set channel_priority strict
  * For Pip:
 
  ```bash
- pip install -r conf/requirements.txt
+ pip install -r config/requirements.txt
  ```
 
 <details>
